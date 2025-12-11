@@ -8,4 +8,4 @@ The ML-Model-Building hold the information for various model learning which are 
 -  [Models](Models)
    -  [Linear Regression](Models/Linear_Regression/)
       -  [Basic Model - Without package](Models/Linear_Regression/salary_experience_v1.ipynb)
-      -
+      -  [Basic Model - Pytorch](Models/Linear_Regression/salary_experience_v2.ipynb)
